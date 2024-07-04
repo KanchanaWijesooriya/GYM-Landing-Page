@@ -1,3 +1,12 @@
+This is the landing page for Cuts and Curves Fitness Club.
+
+Visit the site directly from 
+
+(https://kanchanawijesooriya.github.io/GYM-landing-page/)
+
+Developers have the option to change the blue color filter. (edit index.css)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
