@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GYM-landing-page/static/css/main.cc6eb09f.css",
+    "main.js": "/GYM-landing-page/static/js/main.9b418455.js",
+    "static/media/women2.jpg": "/GYM-landing-page/static/media/women2.229ac0fc548a36b94ebc.jpg",
+    "static/media/fitness1.jpg": "/GYM-landing-page/static/media/fitness1.221d05cee0ab3867fc5b.jpg",
+    "static/media/fit2.jpg": "/GYM-landing-page/static/media/fit2.90f350b4007a253f26e7.jpg",
+    "static/media/logo1.png": "/GYM-landing-page/static/media/logo1.66ddb0cda9bb6b37fe9d.png",
+    "static/media/2.svg": "/GYM-landing-page/static/media/2.2b1a80157cd1e5aeab170c5be10d5fed.svg",
+    "static/media/3.svg": "/GYM-landing-page/static/media/3.7f8ab187d1c684c63d0ca14e0385eb76.svg",
+    "static/media/4.svg": "/GYM-landing-page/static/media/4.94ad484fab778047178afdf1d1090ef7.svg",
+    "static/media/1.svg": "/GYM-landing-page/static/media/1.42ed92e3dd6aa9ae7191caa7c91d7d38.svg",
+    "index.html": "/GYM-landing-page/index.html",
+    "main.cc6eb09f.css.map": "/GYM-landing-page/static/css/main.cc6eb09f.css.map",
+    "main.9b418455.js.map": "/GYM-landing-page/static/js/main.9b418455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6eb09f.css",
+    "static/js/main.9b418455.js"
+  ]
+}
