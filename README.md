@@ -6,6 +6,7 @@ Visit the site directly from
 
 Developers have the option to change the blue color filter. (edit index.css)
 
+NOTE: This html and css is only for desktop.
 
 # Getting Started with Create React App
 
