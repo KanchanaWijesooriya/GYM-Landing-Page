@@ -1,4 +1,4 @@
-
+# GYM Landing Page
 
 Welcome to the Cuts and Curves Fitness Club - Kandy Landing Page! This project is designed to enhance the landing page of the Cuts and Curves Fitness Club. Developed using ReactJs, the page enables users to scroll efficiently. When a user clicks on the navigation bar, scrolling will automatically navigate them to the selected section.
 
