@@ -1,12 +1,54 @@
-This is the landing page for Cuts and Curves Fitness Club.
 
-Visit the site directly from 
 
-(https://kanchanawijesooriya.github.io/GYM-landing-page/)
+Welcome to the Cuts and Curves Fitness Club - Kandy Landing Page! This project is designed to enhance the landing page of the Cuts and Curves Fitness Club. Developed using ReactJs, the page enables users to scroll efficiently. When a user clicks on the navigation bar, scrolling will automatically navigate them to the selected section.
 
-Developers have the option to change the blue color filter. (edit index.css)
+Features
 
-NOTE: This html and css is only for desktop.
+React Scrolling: On click the button, automatically navigate to the selected section.
+
+**Technologies Used**
+
+- ReactJs (JavaScript, HTML and CSS): A programming language used for developing application logic.
+
+- React Scrolling: Automatically navigate to the selected section.
+
+- React Hooks: useState - This hook allows components to manage and respond to changes in state, making them dynamic and interactive.
+
+**Project Structure**
+
+public/index.html: Can change title of the page.
+
+src/Components: All the images and .jsx (logic) files stored in here. (ex: navbar, heading, about)
+
+src/: All the logic and style files stored in here. (ex: App.js, index.css, index.js)
+
+README.md: Main documentation file providing project overview and instructions.
+
+.json files/: Debug commands(deploy, run) and homepage URL stored in this page.
+
+Technologies Used
+
+- ReactJs: A programming language used for developing application logic.
+
+- Visual Studio: An Integrated Development Environment (IDE) for development.
+
+- GitHub: A platform for version control and project hosting.
+
+**Heading**
+![Screenshot (113)](https://github.com/KanchanaWijesooriya/GYM-landing-page/assets/160541254/a0f21f3d-0c87-4211-bae9-a5522b64fcfa)
+
+**Features**
+![Screenshot (114)](https://github.com/KanchanaWijesooriya/GYM-landing-page/assets/160541254/a57fb59b-3d3b-4e0c-a19a-e05a70d6da13)
+
+**Offer**
+![Screenshot (115)](https://github.com/KanchanaWijesooriya/GYM-landing-page/assets/160541254/8a299d9f-fd00-44cb-8ed6-db4d57169cb7)
+
+**About**
+![Screenshot (116)](https://github.com/KanchanaWijesooriya/GYM-landing-page/assets/160541254/c33e17c9-b67d-41ee-9ad2-d6ed354fe747)
+
+**Contact**
+![Screenshot (117)](https://github.com/KanchanaWijesooriya/GYM-landing-page/assets/160541254/06e2b2e1-1eac-41e4-a862-c374a2e708f8)
+
 
 # Getting Started with Create React App
 
