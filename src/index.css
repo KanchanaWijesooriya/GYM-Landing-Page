@@ -658,3 +658,33 @@ nav .menu-btn,
                 height:400px;
             }
         }
+        @media(max-width:1100px){
+            .menu-icon{
+              display: block;
+            }
+            nav{
+              justify-content: space-between;
+              height: 65px;
+              padding: 0px 30px;
+            }
+            .logo img{
+              width: 70px;
+            }
+            .header-btns, .pr-btns{
+              margin: 0;
+            }
+            .menu{
+              display: none;
+              position: absolute;
+              top: 65px;
+              left: 0px;
+              background-color: #121212;
+              border-bottom: 4px solid #1791e3;
+              width: 100%;
+              flex-direction: column;
+            }
+            .menu li{
+              text-align: center;
+              margin: 10px 0;
+            }
+          }       
