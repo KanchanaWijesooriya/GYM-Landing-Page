@@ -2,6 +2,8 @@
 
 GitHub Link: https://kanchanawijesooriya.github.io/GYM-landing-page/
 
+*****This CSS is only support to desktop application. If you want to use tis mobile, please edit index.css and add mobile css media as you want.*****
+
 Welcome to the Cuts and Curves Fitness Club - Kandy Landing Page! This project is designed to enhance the landing page of the Cuts and Curves Fitness Club. Developed using ReactJs, the page enables users to scroll efficiently. When a user clicks on the navigation bar, scrolling will automatically navigate them to the selected section.
 
 # **Features**
